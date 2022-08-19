@@ -1,16 +1,46 @@
-### Hi there 👋
+.👋 <strong>Hi, I’m Etumnu Prosper</strong> 
 
-<!--
-**Etubaba/Etubaba** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+.❤️ <strong>Lover of Open Source contribution and Space Advocacy in the code space </strong>
 
-Here are some ideas to get you started:
+.🌱 <strong>I’m currently into web/mobile development as a fullstack developer in the code world</strong>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+.📫 <strong>I'm currently working on Next js and Node Js as a side Booster</strong>
+
+.💞️ <strong>I’m looking to collaborate on any project using NodeJS, Typescript, React,Next js and javascript</strong>
+
+.📫 <strong> How to reach me <a href="https://www.findprosper.com" >www.findprosper.com</a> </strong>
+
+<br/>
+
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=Etubaba&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+<br/>
+<br/>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Etubaba&langs_count=10&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+<br/>
+<br/>
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Etubaba&count_private=true&show_icons=true&theme=radical)
+<br/>
+<br/>
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Etubaba&theme=dark)](https://git.io/streak-stats)
+<br/>
+<br/>
+
+
+[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=Etubaba&theme=github)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+<br/>
+
+
+
+<h3>.🧰 Languages and Tools:</h3>
+<div style='display:flex'>
+<img  width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"/>&nbsp &nbsp<img width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png"/>&nbsp &nbsp<img  width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"/>&nbsp &nbsp<img  width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"/>&nbsp &nbsp<img  width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"/>&nbsp &nbsp<img  width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"/>&nbsp &nbsp<img  width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png"/>&nbsp &nbsp<img  width="40px" src="https://raw.githubusercontent.com/github/explore/882462b8ecc337fd9c9b2572bc463a1cbc88fb6a/topics/tailwind/tailwind.png"/>&nbsp &nbsp<img  width="40px" src="https://raw.githubusercontent.com/github/explore/28b02bbc9ad9f7a503c43775aebeb515dc2da5fc/topics/nextjs/nextjs.png"/>&nbsp &nbsp<img  width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"/>&nbsp &nbsp<img  width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"/>
+ 
+  
+  
+  
+</div>

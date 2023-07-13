@@ -8,7 +8,7 @@
 
 .💞️ <strong>I’m looking to collaborate on any project using NodeJS, Typescript, React,Next js and javascript</strong>
 
-.📫 <strong> How to reach me <a href="https://www.findprosper-etubaba.vercel.app" >www.findprosper.com</a> </strong>
+.📫 <strong> How to reach me <a href="https://findprosper-etubaba.vercel.app" >www.findprosper.com</a> </strong>
 
 <br/>
 
